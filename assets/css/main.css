@@ -2734,6 +2734,12 @@
 				font-weight: 600;
 			}
 
+			#header img{
+				max-width: 100%;
+				height: auto;
+				margin-right: 10px; /* Adjust the margin as needed */
+			}
+
 		#header a {
 			-moz-transition: color 0.2s ease-in-out;
 			-webkit-transition: color 0.2s ease-in-out;
