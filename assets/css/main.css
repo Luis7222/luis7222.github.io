@@ -2735,9 +2735,9 @@
 			}
 
 			#header img{
-				max-width: 100%;
+				max-width: 50%;
 				height: auto;
-				margin-right: 10px; /* Adjust the margin as needed */
+				margin-right: 50px; /* Adjust the margin as needed */
 			}
 
 		#header a {
