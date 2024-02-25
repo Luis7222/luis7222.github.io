@@ -18,12 +18,6 @@
 
 	body {
 		line-height: 1;
-		opacity: 0;
-		transition: opacity 1s ease-in-out;
-	}
-
-	body.fade-in{
-		opacity: 1;
 	}
 
 	ol, ul {
@@ -2231,7 +2225,7 @@
 		.image.round img {
 			border-radius: 100%;
 			width:25%;
-			display: inline;
+			display: inline
 		}
 
 		.image.left {
