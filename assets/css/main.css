@@ -1630,7 +1630,9 @@
 		text-decoration: underline;
 	}
 
-		a:hover {
+		a:hover, .button:hover {
+			transform: scale(1.1);
+			transition: all 0.3s ease;
 			text-decoration: none;
 		}
 
