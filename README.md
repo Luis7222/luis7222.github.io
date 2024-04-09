@@ -2,7 +2,7 @@
 
 ## Contact and Resume Repository
 
-Welcome to the Contact and Resume Repository for [Your Name] - Full Stack Developer at HCSC for BCBSTX.
+Welcome to the Contact and Resume Repository for Luis Gonzalez - Full Stack Developer at HCSC for BCBSTX.
 
 ## Table of Contents
 
